@@ -1,8 +1,8 @@
 {
-  "name": "nuxt-ts",
+  "name": "reversi-vue",
   "version": "0.1.0",
   "description": "My swell Nuxt.js project",
-  "author": "m-mitsuhide",
+  "author": "oichan25",
   "private": true,
   "scripts": {
     "dev": "npm-run-all --parallel dev:*",
